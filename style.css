@@ -3,7 +3,7 @@
  padding:0;   
 } 
 .main{
-    background: url(pic/b1.jpg);
+    background: url(b1.jpg);
     width: 100%;
     height:100vh;
     background-size: cover;
